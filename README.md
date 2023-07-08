@@ -1,1 +1,1 @@
-# diabetes-prediction
+We have used  Global Terrorism dataset.
